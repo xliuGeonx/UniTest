@@ -1,0 +1,8 @@
+c:\users\administrator\documents\visual studio 2015\Projects\UniTestLearning\BnakTester\bin\Debug\BnakTester.dll
+c:\users\administrator\documents\visual studio 2015\Projects\UniTestLearning\BnakTester\bin\Debug\BnakTester.pdb
+c:\users\administrator\documents\visual studio 2015\Projects\UniTestLearning\BnakTester\bin\Debug\Bank.dll
+c:\users\administrator\documents\visual studio 2015\Projects\UniTestLearning\BnakTester\bin\Debug\Microsoft.VisualStudio.QualityTools.UnitTestFramework.dll
+c:\users\administrator\documents\visual studio 2015\Projects\UniTestLearning\BnakTester\bin\Debug\Bank.pdb
+c:\users\administrator\documents\visual studio 2015\Projects\UniTestLearning\BnakTester\obj\Debug\BnakTestor.csprojResolveAssemblyReference.cache
+c:\users\administrator\documents\visual studio 2015\Projects\UniTestLearning\BnakTester\obj\Debug\BnakTester.dll
+c:\users\administrator\documents\visual studio 2015\Projects\UniTestLearning\BnakTester\obj\Debug\BnakTester.pdb

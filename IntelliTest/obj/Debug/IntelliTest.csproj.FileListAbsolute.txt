@@ -1,0 +1,6 @@
+c:\users\administrator\documents\visual studio 2015\Projects\UniTestLearning\IntelliTest\bin\Debug\IntelliTest.dll
+c:\users\administrator\documents\visual studio 2015\Projects\UniTestLearning\IntelliTest\bin\Debug\IntelliTest.pdb
+c:\users\administrator\documents\visual studio 2015\Projects\UniTestLearning\IntelliTest\bin\Debug\Microsoft.VisualStudio.QualityTools.UnitTestFramework.dll
+c:\users\administrator\documents\visual studio 2015\Projects\UniTestLearning\IntelliTest\obj\Debug\IntelliTest.csprojResolveAssemblyReference.cache
+c:\users\administrator\documents\visual studio 2015\Projects\UniTestLearning\IntelliTest\obj\Debug\IntelliTest.dll
+c:\users\administrator\documents\visual studio 2015\Projects\UniTestLearning\IntelliTest\obj\Debug\IntelliTest.pdb

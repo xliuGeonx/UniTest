@@ -1,0 +1,5 @@
+c:\users\administrator\documents\visual studio 2015\Projects\UniTestLearning\UniTestLearning\bin\Debug\UniTestLearning.dll
+c:\users\administrator\documents\visual studio 2015\Projects\UniTestLearning\UniTestLearning\bin\Debug\UniTestLearning.pdb
+c:\users\administrator\documents\visual studio 2015\Projects\UniTestLearning\UniTestLearning\obj\Debug\UniTestLearning.csprojResolveAssemblyReference.cache
+c:\users\administrator\documents\visual studio 2015\Projects\UniTestLearning\UniTestLearning\obj\Debug\UniTestLearning.dll
+c:\users\administrator\documents\visual studio 2015\Projects\UniTestLearning\UniTestLearning\obj\Debug\UniTestLearning.pdb

@@ -1,0 +1,4 @@
+c:\users\administrator\documents\visual studio 2015\Projects\UniTestLearning\Bank\bin\Debug\Bank.dll
+c:\users\administrator\documents\visual studio 2015\Projects\UniTestLearning\Bank\bin\Debug\Bank.pdb
+c:\users\administrator\documents\visual studio 2015\Projects\UniTestLearning\Bank\obj\Debug\Bank.dll
+c:\users\administrator\documents\visual studio 2015\Projects\UniTestLearning\Bank\obj\Debug\Bank.pdb
